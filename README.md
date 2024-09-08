@@ -9,4 +9,7 @@ This project is a simple To-Do List application with a responsive header that tr
 - Modern and clean design.
 - To - do Application where you can add , update or delete your tasks.
 
+## Steps to run this project :-
+- Open the HTML file of this folder in a browser.
+  
   
